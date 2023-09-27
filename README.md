@@ -2,7 +2,7 @@
 - 기본적인 주류 쇼핑몰 + 구독 서비스
 - 혼술러를 위한 술친구 찾기 WebRTC를 사용해 구현한 화상채팅
 - AI 챗봇을 이용한 고객센터
----
+
 ## 🍀 URL
 - 서비스 URL : https://drinkit.site/
 - Github URL : https://github.com/Drinkit-project
@@ -12,7 +12,6 @@
     - openAPI : https://github.com/Drinkit-project/Drinkit-openAi
 
 ## 🍀 주요 기술
----
 - Nest.js 10, React 18.2
 - webRTC, socket.io
 - PostgreSQL
@@ -22,7 +21,6 @@
 - Open AI
 
 ## 🏗 아키텍쳐
----
 ![drinkit 서비스 아키텍쳐.png](https://res.cloudinary.com/dyhnnmhcf/image/upload/v1695829626/drinkit_%E1%84%89%E1%85%A5%E1%84%87%E1%85%B5%E1%84%89%E1%85%B3_%E1%84%8B%E1%85%A1%E1%84%8F%E1%85%B5%E1%84%90%E1%85%A6%E1%86%A8%E1%84%8E%E1%85%A7_vql9jj.png)
 
   - 아키텍쳐 도입 배경
@@ -50,11 +48,9 @@
         
 
 ## 🏗 ERD
----
 ![drawSQL-drinkit-export-2023-09-27.png](https://res.cloudinary.com/dyhnnmhcf/image/upload/v1695829631/drawSQL-drinkit-export-2023-09-27_w6uktr.png)
 
 ## 🔎 주요기능
----
 - 상품 픽업 서비스
     
     사용자의 주소 기반 근처에 위치한 가게들 재고파악
@@ -90,7 +86,6 @@
     
 
 ## 🛠 트러블슈팅
----
 - HTTPS 배포 관련
     
     Load Balancer
